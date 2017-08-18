@@ -106,9 +106,9 @@ I analyzed Hayek and his editor's writing style (commonly used word using the ba
 
 ## Web Development Projects 
 *Note: VPN is needed to access the following sites.*
-- Web app: easymemo.org
+- Web app:  https://easymemo.org
 *(I developed a memo app for fun)*
-- CCA conference website: ccaconference.org  
+- CCA conference website:  https://ccaconference.org  
 *(I helped Zhuangzi Institute, an economic institute, delevop their conference website from scratch.)*
 
 
