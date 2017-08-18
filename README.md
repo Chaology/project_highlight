@@ -113,7 +113,8 @@ I analyzed Hayek and his editor's writing style (commonly used word using the ba
 
 
 ## Simple Game Projects
-Some arcade games I coded for fun: https://github.com/Chaology/arcade-games
+Some arcade games I coded for fun: https://github.com/Chaology/arcade-games.
+
 Try the [spaceship game](http://www.codeskulptor.org/#user41_lRhjb68M9i9SZ4S.py) if you are interested.
 
 
